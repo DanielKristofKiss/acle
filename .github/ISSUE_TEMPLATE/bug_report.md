@@ -1,28 +1,38 @@
-<!-- SPDX-FileCopyrightText: Copyright 2021 Arm Limited and/or its affiliates <open-source-office@arm.com> -->
-<!-- SPDX-License-Identifier: Apache-2.0 -->
 ---
 name: Bug report
-about: Technical issues, document format problems, bugs in scripts, and so on.
-title: "[BUG]"
-labels: bug
-assignees: fpetrogalli
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
 **Describe the bug**
+A clear and concise description of what the bug is.
 
-A clear and concise description of what the bug is. Please add
-references to the documents where the bug is.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
 **Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-If applicable, add screenshots to help explain your problem. This is
-useful for layout problems in the PDF or HTML pages.
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-**Our commitment**
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-We will work to solve the bug report in time for the upcoming
-release. However, we would like to encourage you to submit the fix
-yourself, if possible. If you intend to do so and this is your first
-contribution, we recommend reading our [contribution
-guidelines](../../CONTRIBUTING.md).
+**Additional context**
+Add any other context about the problem here.
